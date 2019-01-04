@@ -56,4 +56,4 @@ buck-out/
 *.jsbundle
 
 # Custom
-App.js
+#App.js
